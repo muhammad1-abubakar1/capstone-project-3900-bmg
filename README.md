@@ -11,6 +11,10 @@ Team Members
 | Muhammad Abubakar | z5165087 | z5165087@ad.unsw.edu.au | Developer        |
 # Project: Car Space Sharing
 
+## Note
+
+This project will not run without the relevant API keys, which have been removed for security reasons
+
 ### Prerequisites
 - npm
 - pipenv
