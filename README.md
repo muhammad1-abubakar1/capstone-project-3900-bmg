@@ -13,7 +13,7 @@ Team Members
 
 ## Note
 
-This project will not run without the relevant API keys, which have been removed for security reasons
+This project will not run as the API keys/secrets have been removed for security reasons.
 
 ### Prerequisites
 - npm
